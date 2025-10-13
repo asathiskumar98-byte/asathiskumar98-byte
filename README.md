@@ -1,5 +1,5 @@
 # About Me
-# 👋 Hi, I'm Sathis Kumar A  
+# 👋 Hi, I'm Sathiskumar A  
 
 ### 🧠 Embedded Systems & IoT Developer  
 I’m passionate about turning ideas into reality through electronics and code. I love working with **Microcontrollers, Sensors, and IoT Platforms** to create smart, connected solutions that make technology feel alive.  
