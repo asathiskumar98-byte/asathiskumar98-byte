@@ -24,8 +24,6 @@ I’m passionate about turning ideas into reality through electronics and code. 
 - **IoT-based DC Motor Control System + ESP8266** [LinkedIn](https://www.linkedin.com/posts/asathiskumar_iot-esp8266-adafruitio-activity-7377179600537370624-0aiE?utm_source=share&utm_medium=member_android&rcm=ACoAAB5ROKkBGTrivcCeC6teV4sXWxK-sacsDyw)
 - **Google Assistant + IFTTT + ESP8266 IoT LED Control** [LinkedIn](https://www.linkedin.com/posts/asathiskumar_iot-arduino-esp8266-activity-7376160862610317312-Jkba?utm_source=share&utm_medium=member_android&rcm=ACoAAB5ROKkBGTrivcCeC6teV4sXWxK-sacsDyw)
 - **Intro Banner with PIC16F877A + PCF8574 + LCD Display** [LinkedIn](https://www.linkedin.com/posts/asathiskumar_embeddedsystems-pic16f877a-i2c-activity-7374981014986612736-Cfn0?utm_source=share&utm_medium=member_android&rcm=ACoAAB5ROKkBGTrivcCeC6teV4sXWxK-sacsDyw)
-- **Smart RFID Door Access System with Cloud Logging**  
-- **8×8 LED Snake Game using MAX7219**
 
 *(Check out my repositories for full code and schematics!)*  
 
