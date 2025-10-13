@@ -1,4 +1,4 @@
-# asathiskumar98
+# About Me
 # 👋 Hi, I'm Sathis Kumar A  
 
 ### 🧠 Embedded Systems & IoT Developer  
@@ -8,9 +8,9 @@ I’m passionate about turning ideas into reality through electronics and code. 
 
 ## 🔧 Tech Stack  
 - 💻 **Languages:** C, C++, Python, Embedded C, MicroPython  
-- ⚙️ **Microcontrollers:** PIC16F877A, STM32, Arduino, ESP8266, Raspberry Pi Pico W  
+- ⚙️ **Microcontrollers:** PIC16F877A, STM32, Arduino, ESP8266, Raspberry Pi Pico W, Atmega16, 8051 
 - 🛠️ **Tools & IDEs:** MPLAB X, Keil µVision, Arduino IDE, VS Code, Thonny  
-- 📡 **IoT Platforms:** Adafruit IO, IFTTT, Blynk, ThingSpeak  
+- 📡 **IoT Platforms:** Adafruit IO, IFTTT, Blynk, ThingSpeak, Arduino Cloud  
 - 🧩 **PCB Design:** KiCad 9, EasyEDA Pro (Beginner)  
 - 🔋 **Special Interests:** Automation, Low-Power Systems, Smart Devices  
 
@@ -34,9 +34,9 @@ I’m passionate about turning ideas into reality through electronics and code. 
 ---
 
 ## 📬 Connect With Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- 💻 [GitHub](https://github.com/your-username)  
-- ✉️ `youremail@example.com`  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/asathiskumar)  
+- 💻 [GitHub](https://github.com/asathiskumar98-byte)  
+- ✉️ `asathiskumar98@outlook.com`  
 
 ---
 
