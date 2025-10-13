@@ -26,6 +26,8 @@ I’m passionate about turning ideas into reality through electronics and code. 
 - **Intro Banner with PIC16F877A + PCF8574 + LCD Display** [LinkedIn](https://www.linkedin.com/posts/asathiskumar_embeddedsystems-pic16f877a-i2c-activity-7374981014986612736-Cfn0?utm_source=share&utm_medium=member_android&rcm=ACoAAB5ROKkBGTrivcCeC6teV4sXWxK-sacsDyw)
 - **Arduino UNO + HC05 Bluetooth + Mobile Control** [LinkedIn](https://www.linkedin.com/posts/asathiskumar_arduino-bluetooth-hc05-activity-7374632191986712576-dpF8?utm_source=share&utm_medium=member_android&rcm=ACoAAB5ROKkBGTrivcCeC6teV4sXWxK-sacsDyw)
 - **LED Chaser using Arduino UNO + 74HC595 Shift Register** [LinkedIn](https://www.linkedin.com/posts/asathiskumar_arduino-embeddedsystems-iot-activity-7374409087540924416-l98Z?utm_source=share&utm_medium=member_android&rcm=ACoAAB5ROKkBGTrivcCeC6teV4sXWxK-sacsDyw)
+- **STM32F446RE – LED Blink using STM32CubeIDE + FreeRTOS** [LinkedIn](https://www.linkedin.com/posts/asathiskumar_stm32-stm32cubeide-freertos-activity-7374285709563801600-DrO6?utm_source=share&utm_medium=member_android&rcm=ACoAAB5ROKkBGTrivcCeC6teV4sXWxK-sacsDyw)
+- **NodeMCU + OLED + DHT22 = Mini Weather Station** [LinkedIn](https://www.linkedin.com/posts/asathiskumar_iot-nodemcu-embeddedsystems-activity-7373907652592128001-ajrP?utm_source=share&utm_medium=member_android&rcm=ACoAAB5ROKkBGTrivcCeC6teV4sXWxK-sacsDyw)
 
 *(Check out my repositories for full code and schematics!)*  
 
