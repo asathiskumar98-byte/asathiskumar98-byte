@@ -18,6 +18,7 @@ I’m passionate about turning ideas into reality through electronics and code. 
 
 ## 🚀 Featured Projects  
 - **Rotary Encoder LED Dimmer | Raspberry Pi Pico W (MicroPython)**  
+[LinkedIn](https://www.linkedin.com/in/asathiskumar)
 - **Google Assistant + IFTTT + ESP8266 IoT LED Control**  
 - **Smart RFID Door Access System with Cloud Logging**  
 - **8×8 LED Snake Game using MAX7219**
