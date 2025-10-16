@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sathiskumar A  
 
 ### 🧠 Embedded Systems & IoT Developer  
-<img align="center" width="325" height="150" src="https://san.win.tue.nl/education/IoT-inf4all/figs/things.gif">
+<img align="center" width="650" height="300" src="https://san.win.tue.nl/education/IoT-inf4all/figs/things.gif">
 I’m passionate about turning ideas into reality through electronics and code. I love working with **Microcontrollers, Sensors, and IoT Platforms** to create smart, connected solutions that make technology feel alive.  
 
 ---
@@ -22,7 +22,7 @@ I’m passionate about turning ideas into reality through electronics and code. 
 
 ---
 ### Microcontrollers 
-<img width="50" height="50" src="https://w7.pngwing.com/pngs/190/466/png-transparent-microchip-technology-integrated-circuits-chips-pic-microcontroller-others-miscellaneous-electronics-text-thumbnail.png"> <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Atmel_logo.svg/250px-Atmel_logo.svg.png"> <img width="50" height="50" src="https://image.pngaaa.com/343/7817343-middle.png"> <img width="50" height="50" src="https://p7.hiclipart.com/preview/157/473/127/stmicroelectronics-integrated-circuits-chips-printed-circuit-board-stm32-electronic-component-others.jpg">
+<img width="50" height="50" src="https://w7.pngwing.com/pngs/190/466/png-transparent-microchip-technology-integrated-circuits-chips-pic-microcontroller-others-miscellaneous-electronics-text-thumbnail.png"> <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Atmel_logo.svg/250px-Atmel_logo.svg.png"> <img width="50" height="50" src="https://image.pngaaa.com/343/7817343-middle.png"> <img width="50" height="50" src="https://p7.hiclipart.com/preview/157/473/127/stmicroelectronics-integrated-circuits-chips-printed-circuit-board-stm32-electronic-component-others.jpg"> <img width="50" height="50" src="https://companieslogo.com/img/orig/688018.SS-7fccbbee.png?t=1720244490"> <img width="50" height="50" src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png">
 
 ---
 
@@ -31,7 +31,7 @@ I’m passionate about turning ideas into reality through electronics and code. 
 
 ---
 ### IoT Platforms
-
+<img height="50" width="50" src="https://io.adafruit.com/api/docs/images/logo.png"> <img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/IFTTT_Logo.svg/1200px-IFTTT_Logo.svg.png"> <img height="50" width="50" src="https://cdn.ai-forall.com/ifa_dev_media/Blynk_logo_1200h1200_300x300_1_2026ac1d09.png"> <img height="50" width="100" src="https://www.iqhome.org/image/cache/catalog/post/thingspeak-1200x750.png"> <img height="50" width="50" src="https://d7umqicpi7263.cloudfront.net/img/product/e99d164d-6798-418f-8543-56e5d8128477.com/f84c736e6aaf3491621bfe7c596ed6a1">
 
 ---
 
