@@ -7,15 +7,7 @@ I’m passionate about turning ideas into reality through electronics and code. 
 
 ---
 
-## 🔧 Tech Stack  
-- 💻 **Languages:** C, C++, Python, Embedded C, MicroPython
-- ⚙️ **Microcontrollers:** PIC16F877A, STM32, Arduino, ESP8266, Raspberry Pi Pico W, Atmega16, 8051 
-- 🛠️ **Tools & IDEs:** MPLAB X, Keil µVision, Arduino IDE, VS Code, Thonny  
-- 📡 **IoT Platforms:** Adafruit IO, IFTTT, Blynk, ThingSpeak, Arduino Cloud  
-- 🧩 **PCB Design:** KiCad 9, EasyEDA Pro (Beginner)  
-- 🔋 **Special Interests:** Automation, Low-Power Systems, Smart Devices  
-
----
+# 🔧 Tech Stack  
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/c-programming.png" /> <img width="50" height="50" src="https://img.icons8.com/color/50/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg"> <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg"> <img width="50" height="50" src="https://img.icons8.com/color/50/javascript--v1.png" alt="javascript--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/>
