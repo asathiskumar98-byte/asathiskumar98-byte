@@ -31,7 +31,7 @@ I’m passionate about turning ideas into reality through electronics and code. 
 
 ---
 ### IoT Platforms
-<img height="50" width="50" src="https://io.adafruit.com/api/docs/images/logo.png"> <img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/IFTTT_Logo.svg/1200px-IFTTT_Logo.svg.png"> <img height="50" width="50" src="https://cdn.ai-forall.com/ifa_dev_media/Blynk_logo_1200h1200_300x300_1_2026ac1d09.png"> <img height="50" width="100" src="https://www.iqhome.org/image/cache/catalog/post/thingspeak-1200x750.png"> <img height="50" width="50" src="https://d7umqicpi7263.cloudfront.net/img/product/e99d164d-6798-418f-8543-56e5d8128477.com/f84c736e6aaf3491621bfe7c596ed6a1">
+<img height="50" width="50" src="https://cdn-learn.adafruit.com/guides/images/000/000/570/medium800/AIO_LOGO.png"> <img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/IFTTT_Logo.svg/1200px-IFTTT_Logo.svg.png"> <img height="50" width="50" src="https://cdn.ai-forall.com/ifa_dev_media/Blynk_logo_1200h1200_300x300_1_2026ac1d09.png"> <img height="50" width="100" src="https://www.iqhome.org/image/cache/catalog/post/thingspeak-1200x750.png"> <img height="50" width="50" src="https://d7umqicpi7263.cloudfront.net/img/product/e99d164d-6798-418f-8543-56e5d8128477.com/f84c736e6aaf3491621bfe7c596ed6a1">
 
 ---
 ### PCB Design
