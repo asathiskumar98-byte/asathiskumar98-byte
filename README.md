@@ -34,6 +34,10 @@ I’m passionate about turning ideas into reality through electronics and code. 
 <img height="50" width="50" src="https://io.adafruit.com/api/docs/images/logo.png"> <img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/IFTTT_Logo.svg/1200px-IFTTT_Logo.svg.png"> <img height="50" width="50" src="https://cdn.ai-forall.com/ifa_dev_media/Blynk_logo_1200h1200_300x300_1_2026ac1d09.png"> <img height="50" width="100" src="https://www.iqhome.org/image/cache/catalog/post/thingspeak-1200x750.png"> <img height="50" width="50" src="https://d7umqicpi7263.cloudfront.net/img/product/e99d164d-6798-418f-8543-56e5d8128477.com/f84c736e6aaf3491621bfe7c596ed6a1">
 
 ---
+### PCB Design
+<img height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1280px-KiCad-Logo.svg.png"> <img height="50" width="50" src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1"> <img height="50" width="50" src="https://2.bp.blogspot.com/-yVsSyoVRdX4/X1TgNISnxmI/AAAAAAAAZj4/eNaGrtCEd9M09D4sl6_ikf_S89rNqHuvgCLcBGAsYHQ/s1600/Altium%2BDesigner%2BFull%2Bversion.png">
+
+---
 
 ## 🚀 Featured Projects  
 - **Rotary Encoder LED Dimmer | Raspberry Pi Pico W (MicroPython)** [Code](https://github.com/asathiskumar98-byte/Rotary-Encoder-LED-Dimmer-Raspberry-Pi-Pico-W-MicroPython-) [Post](https://www.linkedin.com/posts/asathiskumar_raspberrypipicow-micropython-embeddedsystems-activity-7383033704899727360-7YgN?utm_source=share&utm_medium=member_android&rcm=ACoAAB5ROKkBGTrivcCeC6teV4sXWxK-sacsDyw)
