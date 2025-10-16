@@ -70,6 +70,4 @@ I’m passionate about turning ideas into reality through electronics and code. 
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/asathiskumar98?theme=wtf&font=Roboto&ext=heatmap)
-
 ⭐ *“Making circuits talk, sense, and think — that’s where the magic begins.”*
