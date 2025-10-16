@@ -60,9 +60,9 @@ I’m passionate about turning ideas into reality through electronics and code. 
 ---
 
 ## 📬 Connect With Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/asathiskumar)  
-- 💻 [GitHub](https://github.com/asathiskumar98-byte)  
-- ✉️ `asathiskumar98@outlook.com`  
+- <img height="25" width="25" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"> [LinkedIn](https://www.linkedin.com/in/asathiskumar)  
+- <img height="25" width="25" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"> [GitHub](https://github.com/asathiskumar98-byte)  
+- <img height="25" width="25" src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000"> `asathiskumar98@outlook.com`  
 
 ---
 
