@@ -56,10 +56,19 @@ I’m passionate about turning ideas into reality through electronics and code. 
 ---
 
 ## 📬 Connect With Me  
-- <img height="25" width="25" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"> [asathiskumar](https://www.linkedin.com/in/asathiskumar)  
-- <img height="25" width="25" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"> [asathiskumar98-byte](https://github.com/asathiskumar98-byte)  
-- <img height="25" width="25" src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000"> `asathiskumar98@outlook.com` 
+*click icon*
+
+[<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000">](https://www.linkedin.com/in/asathiskumar)
+[<img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/sathis._.jeeva)
+[<img width="50" height="50" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/>](https://www.facebook.com/sathiskumarjeeva)
+[<img width="50" height="50" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>](https://x.com/SathisJeeva98)
+[<img height="50" width="50" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000">](https://github.com/asathiskumar98-byte)  
+- <img height="50" width="50" src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000"> `asathiskumar98@outlook.com` 
 
 ---
 
 ⭐ *“Making circuits talk, sense, and think — that’s where the magic begins.”*
+
+![Sathiskumar A's GitHub stats](https://github-readme-stats.vercel.app/api?username=asathiskumar98-byte&theme=dark&show_icons=true&&hide=issues,contribs)
+
+[![Sathiskumar A's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asathiskumar98-byte&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/asathiskumar98-byte/github-readme-activity-graph)
