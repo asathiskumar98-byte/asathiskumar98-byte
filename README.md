@@ -3,7 +3,7 @@
 
 ### 🧠 Embedded Systems & IoT Developer  
 <img align="center" width="650" height="300" src="https://san.win.tue.nl/education/IoT-inf4all/figs/things.gif">
-I’m passionate about turning ideas into reality through electronics and code. I love working with **Microcontrollers, Sensors, and IoT Platforms** to create smart, connected solutions that make technology feel alive.  
+I’m passionate about turning ideas into reality through electronics and code. I love working with *Microcontrollers, Sensors, and IoT Platforms* to create smart, connected solutions that make technology feel alive.  
 
 ---
 
