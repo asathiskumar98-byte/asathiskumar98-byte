@@ -2,6 +2,8 @@
 # 👋 Hi, I'm Sathiskumar A  
 
 ### 🧠 Embedded Systems & IoT Developer  
+<img src="https://komarev.com/ghpvc/?username=asathiskumar98-byte&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
+
 <img align="center" width="650" height="300" src="https://san.win.tue.nl/education/IoT-inf4all/figs/things.gif">
 I’m passionate about turning ideas into reality through electronics and code. I love working with *Microcontrollers, Sensors, and IoT Platforms* to create smart, connected solutions that make technology feel alive.  
 
@@ -11,6 +13,8 @@ I’m passionate about turning ideas into reality through electronics and code. 
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/c-programming.png" /> <img width="50" height="50" src="https://img.icons8.com/color/50/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg"> <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg"> <img width="50" height="50" src="https://img.icons8.com/color/50/javascript--v1.png" alt="javascript--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asathiskumar98-byte&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=00000000&title_color=FF00FF&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages" />
 
 ---
 ### Microcontrollers 
