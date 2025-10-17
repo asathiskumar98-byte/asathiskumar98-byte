@@ -67,6 +67,7 @@ I’m passionate about turning ideas into reality through electronics and code. 
 [<img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/sathis._.jeeva)
 [<img width="50" height="50" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/>](https://www.facebook.com/sathiskumarjeeva)
 [<img width="50" height="50" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>](https://x.com/SathisJeeva98)
+[<img width="48" height="48" src="https://img.icons8.com/fluency/48/blogger.png" alt="blogger"/>](https://asathiskumar98.blogspot.com/)
 [<img height="50" width="50" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000">](https://github.com/asathiskumar98-byte)  
 - <img height="50" width="50" src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000"> `asathiskumar98@outlook.com` 
 
