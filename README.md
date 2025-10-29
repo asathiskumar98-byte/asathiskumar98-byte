@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sathiskumar A  
 
 ### 🧠 Embedded Systems & IoT Developer  
-<img src="https://komarev.com/ghpvc/?username=asathiskumar98-byte&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" />
+<img src="https://komarev.com/ghpvc/?username=asathiskumar98-byte&label=Profile%20views&color=00FFFF&style=flat-square" alt="chamidu0423's profile views" /> 
 
 <img align="center" width="650" height="300" src="https://san.win.tue.nl/education/IoT-inf4all/figs/things.gif">
 I’m passionate about turning ideas into reality through electronics and code. I love working with *Microcontrollers, Sensors, and IoT Platforms* to create smart, connected solutions that make technology feel alive.  
